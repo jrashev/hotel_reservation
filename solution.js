@@ -23,6 +23,7 @@ function cleanData(e) {
 }
 
 
+
 document.querySelector('#confirm-back-btn').addEventListener('click', (e) => getBackToPersonalData(e));
 
 function getBackToPersonalData(e) {
@@ -36,4 +37,5 @@ document.querySelector('#confirm-reservation').addEventListener('click', (e) => 
 function showThanksPage(e) {
     e.preventDefault();
     changeContent('thank-you-content');
+
 }
