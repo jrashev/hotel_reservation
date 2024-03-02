@@ -288,7 +288,6 @@ button:hover {
     box-shadow: 1px 1px 11px 8px #e7a83a;
 }
 
-
 .site-content {
     height: 70%;
 }
@@ -300,7 +299,6 @@ button:hover {
 .buttons button {
     margin: 20px;
 }
-
 
 .offers {
     display: flex;
@@ -343,4 +341,3 @@ button:hover {
     align-content: flex-end;
     justify-content: center;
 }
-
