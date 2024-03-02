@@ -188,7 +188,6 @@ button:hover {
     background-color: #cfcbca;
 }
 
-
 .background {
     width: 430px;
     height: 415px;
@@ -300,6 +299,7 @@ button:hover {
     margin: 20px;
 }
 
+
 .offers {
     display: flex;
     flex-direction: column;
@@ -336,4 +336,5 @@ button:hover {
 .selected-room{
     background-color: #cfcbca !important;
 }
+
 
